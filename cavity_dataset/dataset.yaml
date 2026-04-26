@@ -1,0 +1,7 @@
+path: c:/Users/hp/Desktop/DentalVisionAI/cavity_dataset
+train: train/images
+val: val/images
+test: test/images
+
+nc: 1
+names: ['cavity']
