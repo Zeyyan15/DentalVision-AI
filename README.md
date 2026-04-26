@@ -1,10 +1,6 @@
 # <div align="center">🦷 DentalVision AI</div>
 
 <div align="center">
-  <img src="./assets/banner.png" alt="DentalVision AI Banner" width="100%">
-</div>
-
-<div align="center">
   <h3>Smart Dental Cavity Detection with Explainable AI</h3>
   <p>A full-stack Computer Vision solution for automated dental diagnostics and report generation.</p>
 
@@ -49,35 +45,6 @@
 - **CV Engine**: OpenCV, NumPy
 - **Inference**: Ultralytics YOLOv8
 - **Database**: SQLite
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://via.placeholder.com/800x450.png?text=Main+Dashboard+Placeholder" alt="Dashboard" />
-        <p align="center"><i>Main Analytics Dashboard</i></p>
-      </td>
-      <td width="50%">
-        <img src="https://via.placeholder.com/800x450.png?text=Cavity+Detection+Placeholder" alt="Detection" />
-        <p align="center"><i>AI Cavity Detection & XAI Heatmaps</i></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://via.placeholder.com/800x450.png?text=CV+Learning+Lab+Placeholder" alt="Learning Lab" />
-        <p align="center"><i>Computer Vision Learning Lab</i></p>
-      </td>
-      <td width="50%">
-        <img src="https://via.placeholder.com/800x450.png?text=PDF+Report+Placeholder" alt="Reports" />
-        <p align="center"><i>Professional PDF Report Generation</i></p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
@@ -151,14 +118,3 @@ The custom YOLOv8 model was trained on a curated dental dataset of X-rays and in
 - [ ] **Mobile Deployment**: Progressive Web App (PWA) or Flutter integration.
 - [ ] **Advanced XAI**: Implement real Grad-CAM and SHAP for deeper clinical explainability.
 
----
-
-## 👨‍💻 Author / Credits
-
-**Semester Computer Vision Project**  
-Developed as part of the CS curriculum to explore the intersection of Deep Learning and Healthcare.
-
----
-<div align="center">
-  Made with ❤️ for better Dental Health
-</div>
